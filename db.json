@@ -26,7 +26,7 @@
 				"emerContNo": "",
 				"emerContName": "",
 				"emerContEmail": "",
-				"photo": "",
+				"photo": "user.jpg",
 				"copassangers": [{
 						"shorePaxId": "1",
 						"name": "GABRIELE DOLFINI",
@@ -45,7 +45,7 @@
 						"emerContNo": "",
 						"emerContName": "",
 						"emerContEmail": "",
-						"photo": ""
+						"photo": "user.jpg"
 					},
 					{
 						"shorePaxId": "1",
@@ -65,7 +65,7 @@
 						"emerContNo": "",
 						"emerContName": "",
 						"emerContEmail": "",
-						"photo": ""
+						"photo": "user.jpg"
 					}
 				]
 			}],
