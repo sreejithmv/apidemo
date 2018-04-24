@@ -463,7 +463,7 @@
 		}
 	},
 	"shipInfo": {
-		"IBSSpMbDeckPlanResponse": {
+		"IBSSpMbShipInfoResponse": {
 			"HeaderData": [{
 				"deviceType": "G950F",
 				"Os": "android",
